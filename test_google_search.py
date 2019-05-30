@@ -6,7 +6,7 @@ import allure
 @allure.title('Результатов поиска больше 5')
 @allure.severity('Severity.BLOCKER')
 def test_google_search():
-    driver = WebDriver(executable_path='Tools//chromedriver.exe')
+    driver = WebDriver(executable_path='tools//chromedriver.exe')
     with allure.step('Ожидаем страницу поиска'):
         driver.get('https://google.com.ua')
 
