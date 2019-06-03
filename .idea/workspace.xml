@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550772b6-9efa-45a5-9293-6a4270bfeb3b" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_google_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_google_search.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selenium-project-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium-project-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> c9218c81ea614dcc5b89c8c7c183752f328d340b
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +22,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_google_search.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="153">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+=======
+            <state relative-caret-position="255">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+>>>>>>> c9218c81ea614dcc5b89c8c7c183752f328d340b
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -39,11 +50,17 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-1928" />
     <option name="y" value="1" />
     <option name="width" value="1549" />
     <option name="height" value="845" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1937" />
+    <option name="height" value="1057" />
+>>>>>>> c9218c81ea614dcc5b89c8c7c183752f328d340b
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,9 +155,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_test_google_search_py - 2019.05.27 at 17h 32m 33s.xml">
-      <configuration name="pytest in test_google_search.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_test_google_search_py - 2019.05.27 at 17h 52m 45s.xml">
       <configuration name="pytest in test_google_search.py" configurationId="tests" />
     </history-entry>
@@ -168,17 +182,27 @@
     <history-entry file="pytest_in_test_google_search_py - 2019.05.30 at 05h 11m 58s.xml">
       <configuration name="pytest in test_google_search.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_test_google_search_py - 2019.06.01 at 11h 18m 59s.xml">
+      <configuration name="pytest in test_google_search.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-1928" y="1" width="1549" height="845" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48595506" visible="true" weight="0.24950364" />
       <window_info id="Structure" order="1" sideWeight="0.51404494" side_tool="true" visible="true" weight="0.24950364" />
+=======
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48725212" visible="true" weight="0.24917382" />
+      <window_info id="Structure" order="1" sideWeight="0.5127479" side_tool="true" visible="true" weight="0.24917382" />
+>>>>>>> c9218c81ea614dcc5b89c8c7c183752f328d340b
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3272472" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -233,8 +257,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_google_search.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="153">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+=======
+        <state relative-caret-position="255">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+>>>>>>> c9218c81ea614dcc5b89c8c7c183752f328d340b
           <folding>
             <element signature="e#0#57#0" expanded="true" />
           </folding>
