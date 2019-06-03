@@ -1,9 +1,5 @@
 "# bitsoft_test_1" 
 
-Must have chromedriver
-path:
-D://selenium//chromedriver.exe
-
 allure must be added in system path:
 D:\selenium\allure-2.10.0\bin
 
