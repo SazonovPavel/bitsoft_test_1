@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550772b6-9efa-45a5-9293-6a4270bfeb3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_google_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_google_search.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_google_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -38,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-1928" />
     <option name="y" value="1" />
     <option name="width" value="1549" />
@@ -50,8 +51,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bitsoft_test_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitsoft_test_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,9 +171,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="1" width="1549" height="845" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48876405" visible="true" weight="0.24950364" />
-      <window_info id="Structure" order="1" sideWeight="0.51123595" side_tool="true" visible="true" weight="0.24950364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48595506" visible="true" weight="0.24950364" />
+      <window_info id="Structure" order="1" sideWeight="0.51404494" side_tool="true" visible="true" weight="0.24950364" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -221,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_google_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="e#0#57#0" expanded="true" />
           </folding>
